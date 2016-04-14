@@ -3,6 +3,8 @@
   <title>Prueba de PHP</title>
  </head>
  <body>
- <?php echo '<p>Hola Mundo</p>'; ?>
+ <?php echo '<p>Hola Mundo</p>'; 
+ ##hola compañeros estes es mi comentario en php by FABIAN
+ ?>
  </body>
 </html>
